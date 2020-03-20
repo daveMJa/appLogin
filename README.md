@@ -8,3 +8,6 @@ practicas de react-native
 3.-La carpeta api cuenta con la api de peliculas y la api de pokemon que nos dejo como ejercicio
 
 4.-La carpeta de registro cuenta con el archivo de registro y el archivo api para la conexion con la base de datos
+
+5.-Mande video a su whatsapp personal de como funciona
+
